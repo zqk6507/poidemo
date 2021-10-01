@@ -11,6 +11,7 @@ public class NumTest {
 
     public static void main(String[] args) {
         System.out.println("version1");
+        System.out.println("version2");
         Integer a = 1;
         changeValue(a);
         System.out.println("a = " + a);
